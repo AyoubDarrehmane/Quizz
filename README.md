@@ -1,2 +1,2 @@
 # Quizz
-le quizz
+Quizz fait sur python
